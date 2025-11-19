@@ -1,5 +1,3 @@
-import type { Meal } from "~/types/types";
-
 const mockedMeals = [
   {
     id: 52772,

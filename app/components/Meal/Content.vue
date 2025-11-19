@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import type { Meal } from "~/types/types";
-
 defineProps<{
   meal: Meal;
 }>();

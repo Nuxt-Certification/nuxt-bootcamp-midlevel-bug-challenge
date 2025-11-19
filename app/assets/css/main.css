@@ -1,9 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@import "@nuxt/ui";
 
 body {
-  @apply bg-gradient-to-br from-gray-950 to-zinc-800;
+  @apply bg-linear-to-br from-gray-950 to-zinc-800;
 }
 
 .blur-enter-active,

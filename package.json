@@ -2,6 +2,7 @@
   "name": "nuxt-bootcamp-level2-feature-challenge",
   "private": true,
   "version": "0.0.0",
+  "packageManager": "npm@12.0.2",
   "license": "UNLICENSED",
   "type": "module",
   "scripts": {

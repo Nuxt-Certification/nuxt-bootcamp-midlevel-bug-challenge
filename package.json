@@ -26,5 +26,9 @@
     "@nuxt/eslint": "^1.10.0",
     "eslint": "^9.39.1",
     "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10"
   }
 }

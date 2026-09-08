@@ -2,7 +2,6 @@
   "name": "nuxt-bootcamp-level2-feature-challenge",
   "private": true,
   "version": "0.0.0",
-  "packageManager": "yarn@1.22.22",
   "license": "UNLICENSED",
   "type": "module",
   "scripts": {
@@ -27,5 +26,9 @@
     "@nuxt/eslint": "^1.10.0",
     "eslint": "^9.39.1",
     "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10"
   }
 }

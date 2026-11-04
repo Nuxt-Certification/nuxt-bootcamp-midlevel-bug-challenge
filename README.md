@@ -1,7 +1,7 @@
 ---
 difficulty: 1
 tags: codechallenge, Bug Fixing Challenge, Exercise Challenge, Nuxt 3
-openFiles: app.vue, pages/meals/[id].vue, pages/dashboard.vue
+openFiles: app/app.vue, app/pages/meals/[slug].vue, app/pages/dashboard.vue
 ---
 
 # Tasty Meals Bug
